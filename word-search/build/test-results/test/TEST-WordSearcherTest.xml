@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordSearcherTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-21T12:33:00" hostname="MLINPU1502-0049" time="0.002">
+  <properties/>
+  <testcase name="testAcceptsInitialGridAndTargetWord" classname="WordSearcherTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
